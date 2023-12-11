@@ -19,7 +19,4 @@ This repo is for my UCSD bioinformatics class in Fall, 2023.
 - Class 13: [RNA-Seq analysis mini-project](https://github.com/bjmiao/BGGN213/tree/main/13%20RNA-Seq%20analysis%20mini-project/class13)
 - Class 15: [Essential UNIX for bioinformatics](https://github.com/bjmiao/BGGN213/tree/main/15%20Essential%20UNIX%20for%20bioinformatics)
 - Class 16: [Hands-on with Git and GitHub](https://github.com/bjmiao/BGGN213/tree/main/16%20Hands-on%20with%20Git%20and%20GitHub)
-- Class 17: [Vaccination rate mini project](https://github.com/bjmiao/BGGN213/tree/main/17%20Vaccination%20rate%20mini%20project)
-- Class 19: [Mini Project Investigating Pertussis Resurgence](https://github.com/bjmiao/BGGN213/tree/main/19%20Mini%20Project%20Investigating%20Pertussis%20Resurgence/class19)
-- Class 20: [Online portfolio completion plus bonus Bioinformatics in industry session](https://github.com/bjmiao/BGGN213/tree/main/20%20Online%20portfolio%20completion%20plus%20bonus%20Bioinformatics%20in%20industry%20session)
-- Project: [Find a Gene](https://github.com/bjmiao/BGGN213/tree/main/Project%20-%20Find%20a%20gene)
+- Class 17: [Mini Project Investigating Pertussis Resurgence](https://github.com/bjmiao/BGGN213/tree/main/17%20Mini%20Project%20Investigating%20Pertussis%20Resurgence/class17)
